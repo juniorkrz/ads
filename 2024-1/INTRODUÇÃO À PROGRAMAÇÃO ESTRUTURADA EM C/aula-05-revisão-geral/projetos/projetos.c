@@ -2,6 +2,8 @@
 
 Professor: Eliton Marcos Vela
 
+Aluno: Antônio Roberto Júnior
+
 Problemática: Uma empresa comercial possui um programa
 para controle das receitas e despesas em seus 10 projetos.
 Os projetos são numerados de 0 até 9.
@@ -46,7 +48,7 @@ int main(void)
     /* Vetor para os projetos */
     struct Projeto projetos[QTD_PROJETOS];
 
-    /* Iniciando os vetores com saldo 0.0 */
+    /* Iniciando o vetor com saldo igual a zero */
     for(int i = 0; i < QTD_PROJETOS; i++)
     {
         struct Projeto projeto;
