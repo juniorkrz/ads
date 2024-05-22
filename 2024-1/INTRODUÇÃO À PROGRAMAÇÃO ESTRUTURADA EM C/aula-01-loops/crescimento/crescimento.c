@@ -2,6 +2,8 @@
 
 Professor: Eliton Marcos Vela
 
+Aluno: Antônio Roberto Júnior
+
 Problemática: Chico tem 1,15m e cresce 2 centímetros por ano,
 enquanto Juca tem 1,10m e cresce 3 centímetros por ano.
 Construir um programa em C que calcule e imprima quantos anos

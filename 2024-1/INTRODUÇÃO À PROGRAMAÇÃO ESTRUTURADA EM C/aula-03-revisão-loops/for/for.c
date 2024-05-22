@@ -2,6 +2,8 @@
 
 Professor: Eliton Marcos Vela
 
+Aluno: Antônio Roberto Júnior
+
 Problemática: Desenvolva um programa que
 leia um número e o mostre 20 vezes.
 

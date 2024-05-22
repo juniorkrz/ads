@@ -2,6 +2,8 @@
 
 Professor: Eliton Marcos Vela
 
+Aluno: Antônio Roberto Júnior
+
 Problemática: Desenvolva um programa que
 solicite um número, imprima-o e continue
 solicitando números até que seja digitado 0,

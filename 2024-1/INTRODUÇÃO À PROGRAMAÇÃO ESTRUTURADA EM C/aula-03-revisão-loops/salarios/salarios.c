@@ -2,6 +2,8 @@
 
 Professor: Eliton Marcos Vela
 
+Aluno: Antônio Roberto Júnior
+
 Problemática: Desenvolva um programa que
 leia 15 salários e mostre o maior salário
 e a média salarial de uma empresa.

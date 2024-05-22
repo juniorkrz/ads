@@ -2,6 +2,8 @@
 
 Professor: Eliton Marcos Vela
 
+Aluno: Antônio Roberto Júnior
+
 Problemática: Desenvolva um programa que
 solicite um número, entre 0 e 9.
 
