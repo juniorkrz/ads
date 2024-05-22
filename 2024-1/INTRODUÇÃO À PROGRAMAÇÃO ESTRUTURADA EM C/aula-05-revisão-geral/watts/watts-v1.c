@@ -106,7 +106,7 @@ int main(void)
         /* Calcula a quantidade de lâmpadas necessárias */
         int lampadas = calculaLampada(comodo.tipo, area);
 
-        /* Imprimindo resultados */
+        /* Imprimindo resultado */
         printf("Lâmpadas necessárias no cômodo %d: %d\n", comodo.tipo, lampadas);
     }
 
