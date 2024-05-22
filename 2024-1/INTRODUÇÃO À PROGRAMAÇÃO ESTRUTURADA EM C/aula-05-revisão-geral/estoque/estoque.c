@@ -5,7 +5,7 @@ Professor: Eliton Marcos Vela
 Aluno: Antônio Roberto Júnior
 
 Problemática: Faça um programa que controle os estoque de 5 produtos
-em 5 armazéns de um supermercado, conforme figura abaixo:
+em 5 armazéns de um supermercado, conforme na figura estoque.png:
 
 O programa deverá ler o número da linha e da coluna, correspondente ao
 produto no armazém, e a quantidade a ser retirada do estoque.
