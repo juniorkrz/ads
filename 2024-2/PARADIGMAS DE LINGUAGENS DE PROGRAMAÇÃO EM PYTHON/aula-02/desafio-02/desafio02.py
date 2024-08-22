@@ -137,7 +137,7 @@ def inicio():
             case 5:
                 resultado = exponenciar(num_a, num_b)
             case _:
-                resultado = "Não foi possível obter a operação desejada."
+                resultado = "Não foi possível realizar a operação desejada."
 
         # Exibindo resultado
         print(f"Resultado: {resultado}")
